@@ -1,0 +1,5 @@
+body{background-color: black;overflow:hidden;}
+.score_board{
+	position: absolute;
+    z-index: 99999;
+	}
